@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "nt3W525O1cSh/A4D98AKvalo/XSBB4RUo/GA7luKfOD22uLb1aDQfRL0q+l1RIX0/w6fqgggU7aSHdSmt7XUPg==",
+  "success": true,
+  "projectFilePath": "H:\\LibraryManager-main\\LibraryManager-main\\LibraryManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.115.5\\stub.system.data.sqlite.core.netframework.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.sqlite\\1.0.115.5\\system.data.sqlite.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.115.5\\system.data.sqlite.ef6.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.sqlite.linq\\1.0.115.5\\system.data.sqlite.linq.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
